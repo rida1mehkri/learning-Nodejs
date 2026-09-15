@@ -5,7 +5,7 @@
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev server.ts"
+    "dev": "ts-node-dev scr/server.ts"
   },
   "keywords": [],
   "author": "",
